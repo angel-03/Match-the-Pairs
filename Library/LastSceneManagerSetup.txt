@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/Projects/Unity Project/PreMadeSoltaire/Assets/Scenes/SolitaireGame.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
